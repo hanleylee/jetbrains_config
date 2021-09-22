@@ -1,1 +1,35 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <codeStyleSettings language="AppleScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Markdown">
+    <option name="RIGHT_MARGIN" value="150" />
+  </codeStyleSettings>
+  <codeStyleSettings language="Shell Script">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="ruby">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="yaml">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
