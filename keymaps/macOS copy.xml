@@ -1,0 +1,9 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+  <action id="Django.RunManageTaskAction" />
+  <action id="PyRunFileInConsole">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+</keymap>

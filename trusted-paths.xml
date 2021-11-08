@@ -1,0 +1,10 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/github/ios/uPic" />
+        <option value="$USER_HOME$/repo/hkms/dev/lang_swift/src/test" />
+      </list>
+    </option>
+  </component>
+</application>
