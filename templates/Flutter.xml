@@ -1,0 +1,7 @@
+<templateSet group="Flutter">
+  <template name="hl_layout_builder" value="LayoutBuilder(builder: (BuildContext context, BoxConstraints constraints) {&#10;  print(&quot;hl_constraints: $constraints&quot;);&#10;})" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>
