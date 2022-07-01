@@ -1,5 +1,5 @@
 <templateSet group="Dart">
-  <template name="hl_local" value=" String get $local$ {&#10;   return const {&#10;     'id': '$id$',&#10;     'en': '$en$',&#10;   }.local(locale.languageCode);&#10; }&#10;" description="local_text" toReformat="false" toShortenFQNames="true">
+  <template name="hl_local" value="String get $local$ {&#10;  return const {&#10;    'id': '$id$',&#10;    'en': '$en$',&#10;  }.local(locale.languageCode);&#10;}&#10;" description="local_text" toReformat="false" toShortenFQNames="true">
     <variable name="local" expression="" defaultValue="local" alwaysStopAt="true" />
     <variable name="id" expression="" defaultValue="id" alwaysStopAt="true" />
     <variable name="en" expression="" defaultValue="en" alwaysStopAt="true" />
