@@ -94,5 +94,12 @@
   <component name="XDebuggerSettings">
     <data-views />
     <general />
+    <debuggers>
+      <debugger id="ObjectiveC">
+        <configuration>
+          <option name="LLDB_NATVIS_RENDERERS_ENABLED" value="false" />
+        </configuration>
+      </debugger>
+    </debuggers>
   </component>
 </application>
