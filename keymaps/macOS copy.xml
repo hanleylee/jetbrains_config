@@ -1,9 +1,15 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt equals" />
+  <action id="ReplaceInPath" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
-  <action id="Django.RunManageTaskAction" />
-  <action id="PyRunFileInConsole">
-    <keyboard-shortcut first-keystroke="alt r" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
 </keymap>
