@@ -1,10 +1,22 @@
 <application>
+  <component name="DBNavigator.Application.FileTypeService">
+    <original-file-types />
+  </component>
+  <component name="DBNavigator.Application.PluginConflictManager">
+    <plugin-conflict-prompted value="false" />
+    <file-types-claimed value="false" />
+  </component>
   <component name="DBNavigator.Application.Settings">
-    <developer-mode value="false" />
-    <parser-debug-mode value="false" />
-    <database-debug-mode value="false" />
-    <database-lagging-mode value="false" />
-    <show-plugin-conflict-dialog value="false" />
+    <diagnostics>
+      <developer-mode>
+        <timeout value="10" />
+        <enabled value="false" />
+      </developer-mode>
+      <debug-logging failsafe-errors="false" database-access="false" database-resource="false" />
+      <database-lag enabled="false" connectivity="2000" querying="2000" fetching="500" />
+      <miscellaneous dialog-sizing-reset="false" bulk-actions-enabled="false" background-disposer-disabled="false" timeout-handling-disabled="false" />
+    </diagnostics>
+    <client-id value="0F39047F42FB47179851EEDE8BF5F948" />
   </component>
   <component name="DBNavigator.DefaultProject.Settings">
     <connections />
