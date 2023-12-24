@@ -1,34 +1,25 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
-      <mapping ext="ddl" type="DBN-SQL" />
-      <removed_mapping ext="prc" type="SQL" />
-      <removed_mapping ext="vw" type="SQL" />
-      <removed_mapping ext="tps" type="SQL" />
-      <removed_mapping ext="pkb" type="SQL" />
-      <removed_mapping ext="tpb" type="SQL" />
-      <removed_mapping ext="trg" type="SQL" />
-      <removed_mapping ext="pks" type="SQL" />
-      <removed_mapping ext="fnc" type="SQL" />
-      <removed_mapping ext="ddl" type="SQL" />
       <mapping ext="xcscheme" type="XML" />
       <mapping ext="sdef" type="XML" />
       <mapping ext="gpx" type="XML" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="ddl" approved="true" type="SQL" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
+      <removed_mapping ext="fnc" approved="true" type="SQL" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
+      <removed_mapping ext="pkb" approved="true" type="SQL" />
+      <removed_mapping ext="pks" approved="true" type="SQL" />
+      <removed_mapping ext="prc" approved="true" type="SQL" />
       <removed_mapping ext="sql" approved="true" type="SQL" />
+      <removed_mapping ext="tpb" approved="true" type="SQL" />
+      <removed_mapping ext="tps" approved="true" type="SQL" />
+      <removed_mapping ext="trg" approved="true" type="SQL" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="vw" approved="true" type="SQL" />
     </extensionMap>
   </component>
 </application>
