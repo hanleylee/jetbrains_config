@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="srcjar" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ddl" type="SQL" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
