@@ -9,6 +9,7 @@
   <component name="DBNavigator.Application.PluginStatusManager">
     <plugin-statuses>
       <status project="$USER_HOME$/swift-project/swift-corelibs-libdispatch" dbn="PASSIVE" sql="PASSIVE" />
+      <status project="$USER_HOME$/github/ios/yoga" dbn="PASSIVE" sql="PASSIVE" />
       <status project="DEFAULT" dbn="PASSIVE" sql="PASSIVE" />
     </plugin-statuses>
   </component>
