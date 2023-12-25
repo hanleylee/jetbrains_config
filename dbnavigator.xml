@@ -9,6 +9,7 @@
   <component name="DBNavigator.Application.PluginStatusManager">
     <plugin-statuses>
       <status project="$USER_HOME$/swift-project/swift-corelibs-libdispatch" dbn="PASSIVE" sql="PASSIVE" />
+      <status project="$USER_HOME$/github/ios/Logan/Logan/Clogan" dbn="PASSIVE" sql="PASSIVE" />
       <status project="DEFAULT" dbn="PASSIVE" sql="PASSIVE" />
     </plugin-statuses>
   </component>
@@ -22,7 +23,6 @@
       <database-lag enabled="false" connectivity="2000" querying="2000" fetching="500" />
       <miscellaneous dialog-sizing-reset="false" bulk-actions-enabled="false" background-disposer-disabled="false" timeout-handling-disabled="false" />
     </diagnostics>
-    <client-id value="2FDEEB598B2E4AC88A9DF1D82C256852" />
   </component>
   <component name="DBNavigator.DefaultProject.Settings">
     <connections />
